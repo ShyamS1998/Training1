@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a5e3d5b-099c-498d-8eed-53d0e1942815</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d29d41e-52dd-4fdb-ba29-bd2b03aa81f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SHYAM'</defaultValue>
+      <description></description>
+      <id>4d29d41e-52dd-4fdb-ba29-bd2b03aa81f8</id>
+      <masked>false</masked>
+      <name>USERNAME</name>
+   </variable>
+</TestCaseEntity>
